@@ -6,6 +6,15 @@ This project aims to detect fraudulent credit card transactions using supervised
 ## Dataset
 •⁠  ⁠*Source:* [Kaggle: Credit Card Fraud 2025](https://www.kaggle.com/datasets/prince7489/credit-card-fraud-2025)
 
+## Dataset Instructions
+This dataset is not included in the repository due to its large size.
+To run the project:
+•⁠ Download the dataset from Kaggle:
+  https://www.kaggle.com/datasets/prince7489/credit-card-fraud-2025
+•⁠ Extract the file
+•⁠ Place the CSV file in the same folder as notebook.ipynb
+•⁠ Run the notebook
+
 ## Models Used
 •⁠  ⁠*Logistic Regression* - For baseline classification.
 •⁠  ⁠*Decision Tree* - To capture non-linear relationships.
